@@ -1,10 +1,8 @@
-# 🚀 5-Year Technical Skills Roadmap (Revised Start: October 2026)
-
-This roadmap has been adjusted to begin in **October 2026**. It preserves the original progression from web/scripting basics to advanced systems engineering.
+# 5-Year Technical Skills Roadmap (Revised Start: October 2026)
 
 ---
 
-## 📚 Learning Roadmap
+## Learning Roadmap
 
 | Year | Month | Learning Focus | Detailed Topics |
 | :--- | :--- | :--- | :--- |
@@ -61,7 +59,7 @@ This roadmap has been adjusted to begin in **October 2026**. It preserves the or
 
 ---
 
-## 🛠️ Projects Roadmap
+## Projects Roadmap
 
 | Year | Month | Project Focus | Scope |
 | :--- | :--- | :--- | :--- |
@@ -81,6 +79,6 @@ This roadmap has been adjusted to begin in **October 2026**. It preserves the or
 
 ---
 
-## 🏁 2031 & Beyond: The Mastery Year
+## 2031 & Beyond: The Mastery Year
 
 Focus on one **"Impossible"** project (The OS, The Browser, or the Search Engine) and spend the full year refining it into a portfolio centerpiece.
